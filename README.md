@@ -12,7 +12,7 @@ You can view the live demo of the login page at the following URL:
 
 Here is a preview of the login page layout:
 
-![Login Page Screenshot](new.png) 
+![Login Page Screenshot](test.gif) 
 
 ## Features
 

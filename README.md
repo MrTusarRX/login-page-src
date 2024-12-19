@@ -8,6 +8,12 @@ You can view the live demo of the login page at the following URL:
 
 [Live Demo](https://mrtusarrx.github.io/login-page-src/)
 
+## Screenshots
+
+Here is a preview of the login page layout:
+
+![Login Page Screenshot](new.png) 
+
 ## Features
 
 - Clean and minimalistic design
@@ -24,4 +30,5 @@ To get started with the login page, follow these steps:
 
    ```bash
    git clone https://github.com/MrTusarRX/login-page-src.git
+
    cd login-page-src
